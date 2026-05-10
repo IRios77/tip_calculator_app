@@ -1,1 +1,79 @@
 # tip_calculator_app
+
+1. Project Description 
+
+The proposed application is a Tip Calculator App for Android devices. The app will help users quickly calculate tip amounts and total bills when dining at restaurants or paying for services. Users will enter the bill amount and select a tip percentage to automatically calculate the total. 
+
+2. Problem Addressing 
+
+Many people struggle to quickly calculate tips and split bills while dining out. This application simplifies the process by providing fast and accurate calculations directly from a mobile device. 
+
+3. Platform 
+
+The application will be developed for the Android platform using Android Studio and the Android SDK. 
+
+4. Front-End and Back-End Support 
+
+A. Front-End 
+
+The front end will include: 
+
+Bill amount input field  
+
+Tip percentage input field  
+
+Calculate button  
+
+Display area for tip amount and total bill  
+
+Simple and user-friendly interface  
+
+B. Back-End 
+
+The back end will handle: 
+
+Tip calculation formulas  
+
+User input processing  
+
+Displaying calculated totals  
+
+The application will not require a database or internet connection. 
+
+5. Functionality 
+
+The application will allow users to: 
+
+Enter the bill amount  
+
+Enter or select a tip percentage  
+
+Calculate the tip amount  
+
+Calculate the final total bill  
+
+Reset calculations for a new bill  
+
+6. Design / Wireframes 
+
+A. Main Screen 
+
+The main screen will contain: 
+
+A text box for bill amount  
+
+A text box or slider for tip percentage  
+
+A calculate button  
+
+Result display section  
+
+B. Layout Design 
+
+The application will use a clean and simple layout with large buttons and readable text for easy use in restaurant environments. 
+
+7. Project Goals 
+
+The goal of this project is to develop a simple Android application that demonstrates basic Android development skills including user input, buttons, layouts, calculations, and displaying results. 
+
+ 
