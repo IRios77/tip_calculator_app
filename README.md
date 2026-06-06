@@ -76,4 +76,39 @@ The application will use a clean and simple layout with large buttons and readab
 
 The goal of this project is to develop a simple Android application that demonstrates basic Android development skills including user input, buttons, layouts, calculations, and displaying results. 
 
- 
+
+
+
+
+
+ ## Current Features
+- Enter bill amount
+- Select preset tip percentages (15%, 20%, 25%)
+- Enter custom tip percentage
+- Split bill among multiple people
+- Calculate tip amount
+- Calculate total bill amount
+- Calculate amount owed per person
+- Reset calculations
+
+## Version Changelog
+
+### Version 1.0
+- Initial project proposal completed
+- Business problem identified
+
+### Version 1.1
+- Wireframes completed
+- GitHub repository and Wiki created
+
+### Version 1.2
+- Android Studio project created
+- User interface development started
+- Tip calculation functionality being implemented
+
+### Future Version 1.3
+- Complete application functionality
+- Perform testing and debugging
+- Improve user interface
+- Final GitHub updates
+- Submit completed application
