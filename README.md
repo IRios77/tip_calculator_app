@@ -14,31 +14,21 @@ The application will be developed for the Android platform using Android Studio 
 
 4. Front-End and Back-End Support 
 
-A. Front-End 
+Front-End Support
 
-The front end will include: 
+- XML layouts
+- EditText fields
+- RadioButtons
+- Buttons
+- TextView for displaying results
 
-Bill amount input field  
+Back-End Support
 
-Tip percentage input field  
-
-Calculate button  
-
-Display area for tip amount and total bill  
-
-Simple and user-friendly interface  
-
-B. Back-End 
-
-The back end will handle: 
-
-Tip calculation formulas  
-
-User input processing  
-
-Displaying calculated totals  
-
-The application will not require a database or internet connection. 
+- Java programming language
+- Android SDK
+- Event handling
+- Tip calculation logic
+- Bill splitting calculations
 
 5. Functionality 
 
@@ -106,7 +96,7 @@ The goal of this project is to develop a simple Android application that demonst
 - User interface development started
 - Tip calculation functionality being implemented
 
-### Future Version 1.3
+### Version 1.3 (Final Release)
 - Complete application functionality
 - Perform testing and debugging
 - Improve user interface
